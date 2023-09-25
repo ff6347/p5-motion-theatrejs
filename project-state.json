@@ -1,0 +1,95 @@
+{
+  "sheetsById": {
+    "Animated scene": {
+      "staticOverrides": {
+        "byObject": {
+          "ellipse": {
+            "y": 50.50632911392404,
+            "x": 55.06329113924052,
+            "width": 230
+          },
+          "obj": {}
+        }
+      },
+      "sequence": {
+        "subUnitsPerUnit": 30,
+        "length": 10,
+        "type": "PositionalSequence",
+        "tracksByObject": {
+          "obj": {
+            "trackData": {
+              "7ZPsRXfT8Y": {
+                "type": "BasicKeyframedTrack",
+                "__debugName": "obj:[\"y\"]",
+                "keyframes": [
+                  {
+                    "id": "VaGWINacqz",
+                    "position": 0,
+                    "connectedRight": true,
+                    "handles": [
+                      0.5,
+                      1,
+                      0.5,
+                      0
+                    ],
+                    "value": 10
+                  },
+                  {
+                    "id": "GlY64VrQCH",
+                    "position": 4,
+                    "connectedRight": true,
+                    "handles": [
+                      0.9497907949790795,
+                      0.18939393939393934,
+                      0.5,
+                      0
+                    ],
+                    "value": 89.74683544303795
+                  }
+                ]
+              },
+              "-feVmmdOaM": {
+                "type": "BasicKeyframedTrack",
+                "__debugName": "obj:[\"x\"]",
+                "keyframes": [
+                  {
+                    "id": "6oAc6jMjYC",
+                    "position": 0,
+                    "connectedRight": true,
+                    "handles": [
+                      0.5,
+                      1,
+                      0.5,
+                      0
+                    ],
+                    "value": 3.7974683544304053
+                  },
+                  {
+                    "id": "wCnEHDoHNg",
+                    "position": 4,
+                    "connectedRight": true,
+                    "handles": [
+                      0.9393305439330544,
+                      0.36363636363636365,
+                      0.5,
+                      0
+                    ],
+                    "value": 75.9493670886076
+                  }
+                ]
+              }
+            },
+            "trackIdByPropPath": {
+              "[\"y\"]": "7ZPsRXfT8Y",
+              "[\"x\"]": "-feVmmdOaM"
+            }
+          }
+        }
+      }
+    }
+  },
+  "definitionVersion": "0.4.0",
+  "revisionHistory": [
+    "0a92nAYpy7-riUvh"
+  ]
+}
